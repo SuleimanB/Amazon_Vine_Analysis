@@ -27,3 +27,5 @@ In total, their were only roughly 1 million 5-star reviews with the vast, overwh
 Summary 
 
 In summary as a result of the low amount of Vine Program reviews, their is a clear amount of inherent bias to the substantial difference between the number of reviews for the two categories. Further studying or examination will need to have very structured ideas and implementation of the sample in order to ensure no bias is observed. The other option would be to accumulate more reviews for this vine program and ensure an actionable sample can be used. One note would be perhaps use the Vine Program reviews to see if more helpful comments and votes were associated for these reviews when compared to non-Vine reviews to see if perhaps this Vine program has more positive interactions or desired interactions with Amazon products and services compared to those who are not a part of it. It would help deem whether this program is worth promoting and showcasing or if some restructuring would be needed. 
+
+(Screenshots should be readable once downloaded onto respective computer. Local file displays screenshots without issue)
